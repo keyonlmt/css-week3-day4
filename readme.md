@@ -15,7 +15,7 @@
    ```
 3. Navigate to the project directory:
    ```sh
-   cd birds-css-walkthrough
+   cd css-week3-day4
    ```
 
 ### 3. Open the Project in a Code Editor
