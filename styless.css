@@ -1,0 +1,72 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(to right, #ff9a9e, blue, lightblue)
+    color: black;
+}
+
+Header{
+    background-color: #ff6f61; 
+    colore: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav{
+    background-color: #ff8566;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a{
+    colore: white;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+.container{
+    width: 80%;
+    margin: 20x auto;
+    padding: 20px;
+    background-color: rgba(red, green, blue, alpha);
+    border-radius: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.right{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 40px;
+    flex-direction: row-reverse;
+}
+
+.content-block img{
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+.card-container{
+    display: flex;
+    gap: 15px;
+    margin-top: 25px;
+}
+
+.card{
+    background-color: #ffdfd4;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 30%;
+    text-align: ;
+}
