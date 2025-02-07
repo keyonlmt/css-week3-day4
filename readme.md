@@ -20,7 +20,7 @@
 
 ### 3. Open the Project in a Code Editor
 1. Open your preferred code editor (e.g., VS Code, Sublime Text).
-2. Open the `birds-css-walkthrough` folder.
+2. Open the `css-week3-day4` folder.
 
 ### 4. Implement CSS Styles
 1. Open the `styles.css` file (or edit the inline styles in `index.html`).
